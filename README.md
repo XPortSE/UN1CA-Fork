@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://notmadeyetlikereally.not">🌐 Website</a>
   •
-  <a href="https://notmadeyetlikereally.not">💬 Telegram</a>
+  <a href="https://t.me/worldsforkz">💬 Telegram</a>
   •
   <a href="https://github.com/Mesa-Labs-Archive/UN1CA">⚙️ Original</a>
 </p>
