@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img loading="lazy" src="readme-res/banner.png"/>
+  <img loading="lazy" src="readme-res/banner_new.png"/>
 </h1>
 <p align="center">
   <a href="https://github.com/BlackMesa123/UN1CA/blob/fourteen/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/BlackMesa123/UN1CA?style=for-the-badge&logo=github"/></a>
