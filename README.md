@@ -11,15 +11,15 @@
 <p align="center">UN1CA-Fork like the name says is a forked version of UN1CA <i>(/ˈu.ni.ka/)</i> a custom firmware for Samsung devices.</p>
 
 <p align="center">
-  <a href="https://unica.mesalabs.io">🌐 Website</a>
+  <a href="https://notmadeyetlikereally.not">🌐 Website</a>
   •
-  <a href="https://t.me/unicarom">💬 Telegram</a>
+  <a href="https://notmadeyetlikereally.not">💬 Telegram</a>
 </p>
 
 # Quick links
-- [Supported devices](https://unica.mesalabs.io/devices)
-- [Installation instructions](https://unica.mesalabs.io/guide)
-- [Build UN1CA](https://unica.mesalabs.io/expert/build/)
+- [Supported devices](https://notmadeyetlikereally.not)
+- [Installation instructions](https://notmadeyetlikereally.not)
+- [Build UN1CA](https://notmadeyetlikereally.not)
 
 # What is UN1CA?
 UN1CA is an open source project which allows you to create a custom One UI-based ROM by automatically downloading/extracting the firmware, applying the required patches and generating a flashable zip/tar package.
